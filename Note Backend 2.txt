@@ -8,7 +8,7 @@ Perhatikan file services/mysql/NoteService.js
 Perhatikan index.js
 	1. service yang sebelumnya kita import dari inMemory, sekarang kita import dari folder service/mysql (baris 7)
 	2. import pool dari dalam utils/database/pool (ini berisi objek pool untuk terhubung ke database mysql)
-	3. pada pembuatan service (baris 13) objek pool dimasukkan menjadi parameter constructor NoteService
+	3. pada pembuatan service (baris 13) objek pool dimasukkan medsasfasdfasdf
 
 
 Coba dulu ya, ini script saya tulis buru" blm sempat cek jalan atau tidak. jika error coba cari penyelesaiannya sambil tanya di grup
